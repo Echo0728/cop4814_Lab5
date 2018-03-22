@@ -17,6 +17,9 @@ namespace GameObjectsLibrary
         public int Team1Score { get; set; }
 
         public int Team2Score { get; set; }
+        
+        public int Team3Score { get; set; }
+        //change this to Team4Score
 
         public Game() { }
 
