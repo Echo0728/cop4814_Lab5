@@ -1,6 +1,5 @@
 //comment added
-//2nd comment added
-
+//3rd comment added
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,6 +17,9 @@ namespace GameObjectsLibrary
         public int Team1Score { get; set; }
 
         public int Team2Score { get; set; }
+        
+        public int Team3Score { get; set; }
+        //change this to Team4Score
 
         public Game() { }
 
